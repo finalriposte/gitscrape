@@ -7,7 +7,7 @@ I have script this to run from an environment variable but may change this in th
 Theoretically you could remove this is a requirement, but you might then have more issues with the API limits from Github.
 
 ### Usage
-Firstly, make sure the script has the executable permission.
+Firstly, clone the script.  
 ```
 git clone https://github.com/finalriposte/gitscrape.git
 ```
@@ -18,6 +18,7 @@ Get dependencies.
 ```
 pip3 install -r requirements.txt
 ```
+Then, make sure the script has the executable permission.
 ```
 chmod +x gitscrape.py
 ```
