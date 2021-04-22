@@ -15,6 +15,9 @@ git clone https://github.com/finalriposte/gitscrape.git
 cd gitscrape
 ```
 ```
+pip3 install -r requirements.txt
+```
+```
 chmod +x gitscrape.py
 ```
 Make sure your Github Personal Access Token is configured to be an environment variable.  
