@@ -14,6 +14,7 @@ git clone https://github.com/finalriposte/gitscrape.git
 ```
 cd gitscrape
 ```
+Get dependencies.  
 ```
 pip3 install -r requirements.txt
 ```
